@@ -91,7 +91,7 @@ html {
     transition: all 0.3s ease;
 }
 
-@media screen and (max-width: 960px) {
+@media(max-width: 960px) {
     .nav-container {
         display: flex;
         justify-content: space-between;
