@@ -14,6 +14,7 @@ html {
 .nav-bar {
     background-color: #131313;
     height: 8rem;
+    width: 100vw;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -35,8 +36,8 @@ html {
 }
 
 #nav-logo {
-    background-color: #0F2027;
-    background-image: linear-gradient(to top, #318cb3 0%, #2C5364 100%);
+    background-color: #42053a;
+    background-image: linear-gradient(to top, #630c3c 0%, #f953c6 100%);
     background-size: 100%;
     -webkit-background-clip: text;
     -moz-background-clip: text;
@@ -79,9 +80,9 @@ html {
     border: none;
     outline: none;
     border-radius: 0.4rem;
-    background: #0F2027;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #2C5364, #203A43, #0F2027);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #2C5364, #203A43, #0F2027); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: #f953c6;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #b91d73, #f953c6);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #b91d73, #f953c6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     color: #fff;
     transition: all 0.3s ease;
 }
