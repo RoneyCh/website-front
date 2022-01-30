@@ -13,8 +13,8 @@ html {
 
 .main {
     background-color: #131313;
-    height: 100vh;
-    width: 100vw;
+    height: 100%;
+    width: 100%;
 }
 .main-container {
     display: grid;
@@ -142,9 +142,9 @@ html {
         flex-direction: column;
         align-items: center;
         justify-content: center;
-        width: 100vw;
+        width: 100%;
         margin: 0 auto;
-        height: 100vh;
+        height: 100%;
     }
 
     .main-img-container {
