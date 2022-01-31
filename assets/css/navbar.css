@@ -37,7 +37,7 @@ html {
 
 #nav-logo {
     background-color: #42053a;
-    background-image: linear-gradient(to top, #630c3c 0%, #f953c6 100%);
+    background-image: linear-gradient(to top, #630c3c 0%, #1871d8 100%);
     background-size: 100%;
     -webkit-background-clip: text;
     -moz-background-clip: text;
@@ -81,8 +81,8 @@ html {
     outline: none;
     border-radius: 0.4rem;
     background: #f953c6;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #b91d73, #f953c6);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #b91d73, #f953c6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: -webkit-linear-gradient(to right, #770e48, #135aac);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #770e48, #135aac); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     color: #fff;
     transition: all 0.3s ease;
 }
